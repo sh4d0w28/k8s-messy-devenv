@@ -14,4 +14,3 @@ kubectl apply -f postgres.yaml
 
 # deploy redis
 kubectl apply -f redis.yaml
-
